@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#15803d"/><stop offset="1" stop-color="#bef264"/></linearGradient>
+<linearGradient id="d" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a16207"/><stop offset="1" stop-color="#451a03"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fde047"/><stop offset="1" stop-color="#d97706"/></linearGradient>
+<g id="b"><ellipse rx="22" ry="14" fill="#fef3c7" stroke="#a16207" stroke-width="2"/><path d="M-16 0Q0 -5 16 0" stroke="#78350f" stroke-width="3" fill="none"/><path d="M-9 -3v6M-3 -4v8M3 -4v8M9 -3v6" stroke="#a16207" stroke-width="1.5"/></g>
+</defs>
+<rect width="400" height="300" fill="url(#s)"/>
+<circle cx="340" cy="44" r="22" fill="#fef9c3"/>
+<!-- plantas -->
+<g fill="#14532d"><path d="M20 130c4-30 14-50 28-60-2 24-10 44-28 60z"/><path d="M40 130c10-24 24-36 40-40-6 22-20 34-40 40z"/><path d="M360 130c-4-30-14-50-28-60 2 24 10 44 28 60z"/><path d="M340 130c-10-24-24-36-40-40 6 22 20 34 40 40z"/></g>
+<rect y="120" width="400" height="180" fill="url(#d)"/>
+<path d="M0 120q50-10 100 0t100 0 100 0 100 0v6H0z" fill="#3f6212"/>
+<path d="M50 140l24 44h252l24-44z" fill="#1c0a02" opacity=".55"/>
+<!-- pedras -->
+<g fill="#a8845a" stroke="#291205" stroke-width="2"><rect x="76" y="188" width="76" height="38" rx="5"/><rect x="156" y="188" width="86" height="38" rx="5"/><rect x="246" y="188" width="76" height="38" rx="5"/><rect x="100" y="230" width="90" height="38" rx="5"/><rect x="194" y="230" width="80" height="38" rx="5"/></g>
+<!-- objetos -->
+<use href="#b" x="120" y="172" transform="rotate(-12 120 172)"/>
+<use href="#b" x="262" y="174" transform="rotate(14 262 174)"/>
+<use href="#b" x="200" y="214"/>
+<circle cx="170" cy="172" r="9" fill="none" stroke="url(#g)" stroke-width="5"/>
+<circle cx="222" cy="170" r="9" fill="url(#g)"/><circle cx="222" cy="170" r="4" fill="#92400e"/>
+<!-- lupa -->
+<circle cx="300" cy="96" r="30" fill="#ffffff26" stroke="#1c0a02" stroke-width="7"/>
+<path d="M322 118l34 38" stroke="#1c0a02" stroke-width="10" stroke-linecap="round"/>
+<path d="M285 86q8-12 22-8" stroke="#fff" stroke-width="4" fill="none" stroke-linecap="round"/>
+<!-- pincel -->
+<path d="M40 250l52-36" stroke="#166534" stroke-width="8" stroke-linecap="round"/>
+<path d="M92 214l20-13 4 6-14 19z" fill="#fde68a"/>
+<text x="200" y="286" text-anchor="middle" font-family="Georgia,serif" font-size="20" font-weight="700" fill="#fef3c7">2011</text>
+</svg>

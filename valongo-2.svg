@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#166534"/><stop offset="1" stop-color="#d9f99d"/></linearGradient>
+<linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#15803d"/><stop offset="1" stop-color="#052e16"/></linearGradient>
+<linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a16207"/><stop offset="1" stop-color="#451a03"/></linearGradient>
+<pattern id="k" width="48" height="26" patternUnits="userSpaceOnUse">
+<rect width="48" height="26" fill="#78350f"/><rect width="16" height="26" fill="#15803d"/><rect x="16" width="8" height="26" fill="#fbbf24"/><rect x="24" width="8" height="26" fill="#451a03"/><rect y="9" width="48" height="8" fill="#ffffff22"/>
+</pattern>
+</defs>
+<rect width="400" height="300" fill="url(#s)"/>
+<circle cx="320" cy="62" r="26" fill="#fef9c3"/>
+<rect y="140" width="400" height="160" fill="url(#w)"/>
+<path d="M0 168q40-10 80 0t80 0 80 0 80 0 80 0v12H0z" fill="#ffffff22"/>
+<!-- navio -->
+<path d="M30 124h160l-16 22H46z" fill="#291205"/>
+<rect x="104" y="60" width="4" height="64" fill="#291205"/>
+<path d="M108 64c28 10 40 30 42 56h-42z" fill="#fef3c7"/>
+<path d="M104 72c-22 10-34 28-36 48h36z" fill="#fde68a"/>
+<!-- cais -->
+<path d="M0 196h400v72H0z" fill="url(#r)"/>
+<g stroke="#291205" stroke-width="2" fill="none" opacity=".7"><path d="M0 220h400M0 244h400"/><path d="M50 196v24M130 196v24M210 196v24M290 196v24M370 196v24M90 220v24M170 220v24M250 220v24M330 220v24M10 220v24M50 244v24M130 244v24M210 244v24M290 244v24M370 244v24"/></g>
+<text x="200" y="188" text-anchor="middle" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#fff" stroke="#291205" stroke-width=".8">1811</text>
+<rect y="268" width="400" height="32" fill="url(#k)"/>
+</svg>

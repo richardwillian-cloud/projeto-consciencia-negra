@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2e05"/><stop offset="1" stop-color="#84cc16"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#s)"/>
+<circle cx="70" cy="58" r="22" fill="#fde68a"/>
+<!-- novo cais -->
+<rect y="116" width="400" height="30" fill="#d6b98c"/>
+<path d="M0 131h400M60 116v30M150 116v30M240 116v30M330 116v30" stroke="#a16207" stroke-width="2"/>
+<rect y="108" width="400" height="10" fill="#4d7c0f"/>
+<!-- camadas -->
+<rect y="146" width="400" height="40" fill="#92400e"/>
+<rect y="186" width="400" height="30" fill="#78350f"/>
+<rect y="216" width="400" height="84" fill="#451a03"/>
+<g fill="#1c0a02" opacity=".5"><circle cx="40" cy="165" r="4"/><circle cx="120" cy="170" r="5"/><circle cx="210" cy="160" r="3"/><circle cx="90" cy="200" r="4"/><circle cx="180" cy="205" r="5"/></g>
+<!-- cais antigo -->
+<rect y="240" width="400" height="60" fill="#8d6e4a"/>
+<g stroke="#291205" stroke-width="2" fill="none"><path d="M0 268h400"/><path d="M50 240v28M140 240v28M230 240v28M320 240v28M95 268v32M185 268v32M275 268v32M365 268v32"/></g>
+<!-- árvore com raízes -->
+<path d="M300 240C300 190 306 150 304 90h14c-2 60 4 100 4 150z" fill="#1c0a02"/>
+<path d="M302 240c-20 6-40 4-56-6M320 240c20 6 40 4 56-6M306 232c-12-20-30-26-44-24M318 232c12-20 30-26 44-24" stroke="#1c0a02" stroke-width="5" fill="none" stroke-linecap="round"/>
+<g fill="#16a34a"><circle cx="310" cy="62" r="34"/><circle cx="284" cy="78" r="24"/><circle cx="338" cy="78" r="24"/></g>
+<circle cx="310" cy="52" r="20" fill="#4ade80"/>
+<text x="150" y="104" text-anchor="middle" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#fef3c7" stroke="#1a2e05" stroke-width=".8">1843</text>
+</svg>

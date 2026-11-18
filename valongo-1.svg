@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#14532d"/><stop offset=".65" stop-color="#65a30d"/><stop offset="1" stop-color="#d97706"/></linearGradient>
+<radialGradient id="o"><stop offset="0" stop-color="#fef9c3"/><stop offset="1" stop-color="#f59e0b"/></radialGradient>
+</defs>
+<rect width="400" height="300" fill="url(#s)"/>
+<circle cx="300" cy="150" r="50" fill="url(#o)"/>
+<!-- baobá -->
+<path d="M58 270c10-40 8-90 4-120h34c-6 30-4 80 6 120z" fill="#451a03"/>
+<path d="M62 150c-30-6-50-26-48-40M96 150c30-6 52-24 52-40M79 150c-4-20-14-40-30-52M79 150c4-20 16-40 36-50" stroke="#451a03" stroke-width="7" fill="none" stroke-linecap="round"/>
+<g fill="#166534"><ellipse cx="22" cy="100" rx="30" ry="14"/><ellipse cx="50" cy="86" rx="32" ry="15"/><ellipse cx="116" cy="88" rx="32" ry="15"/><ellipse cx="144" cy="104" rx="26" ry="13"/><ellipse cx="82" cy="80" rx="30" ry="14"/></g>
+<!-- Sankofa -->
+<path d="M175 196C140 190 128 150 150 124" stroke="#fcd34d" stroke-width="16" fill="none" stroke-linecap="round"/>
+<path d="M160 190C134 196 118 176 118 156M168 196C150 210 124 206 112 190" stroke="#fbbf24" stroke-width="8" fill="none" stroke-linecap="round"/>
+<ellipse cx="225" cy="196" rx="52" ry="28" fill="#fcd34d"/>
+<path d="M262 184C292 150 268 102 222 142" stroke="#fcd34d" stroke-width="14" fill="none" stroke-linecap="round"/>
+<circle cx="220" cy="146" r="12" fill="#fcd34d"/>
+<path d="M210 146l-18 4 16 6z" fill="#b45309"/>
+<circle cx="188" cy="152" r="7" fill="#fef3c7"/>
+<circle cx="223" cy="143" r="2.5" fill="#451a03"/>
+<path d="M205 192q20 10 40 0" stroke="#b45309" stroke-width="3" fill="none"/>
+<path d="M215 222v30M240 222v30M205 252h20M230 252h20" stroke="#b45309" stroke-width="5" stroke-linecap="round"/>
+<path d="M0 262q100-20 200 0t200 0v38H0z" fill="#451a03"/>
+<text x="200" y="288" text-anchor="middle" font-family="Georgia,serif" font-size="16" font-weight="700" fill="#fde68a" letter-spacing="4">SANKOFA</text>
+</svg>
